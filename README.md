@@ -7,11 +7,9 @@ The application will calculate the total amount payable based on the client's se
 
 For example, if a client selects Pilates (RM160 per month) and Kickboxing (RM200 per month) as their fitness classes, and chooses personal training instructor on a weekly basis (RM900 per week), the application will calculate the sum payable as follows:
 
-Pilates: RM160
-Kickboxing: RM200
-Personal Training Instructor (Weekly): RM900
+Pilates: RM160, Kickboxing: RM200, Personal Training Instructor (Weekly): RM900
 
-Total Payable = RM160 + RM200 + RM900 = RM1260
+Total Payable = RM160 + RM200 + RM900 = **RM1260**
 
 Additionally, the application will incorporate promotional discounts to encourage clients to enroll in more classes. If a client enrolls in a minimum of 2 classes, they will receive a discount of RM10 on the total amount payable. If they enroll in a minimum of 3 classes, the discount increases to RM20, and for a minimum of 4 classes or more, the discount is RM40.
 
