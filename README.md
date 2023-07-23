@@ -22,3 +22,5 @@ By considering the client's selection of classes, personal training instructor o
 #### Example 2
 <img width="486" alt="Screenshot 2023-07-23 at 11 00 26 AM" src="https://github.com/zakizndn/Fitness_Center/assets/117178074/a0888e3b-4db5-44b4-8106-25b787474a11">
 
+#### Invalid Input
+<img width="390" alt="Screenshot 2023-07-23 at 11 02 42 AM" src="https://github.com/zakizndn/Fitness_Center/assets/117178074/812d03b0-ace5-449a-bc28-5d609147cee4">
