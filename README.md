@@ -2,7 +2,7 @@
 ECE3166 - Advanced Microprocessors
 
 Description: 
-
+ 
 The application will calculate the total amount payable based on the client's selection of fitness classes and personal training instructor options. Once the client has chosen the classes and services they want, the application will compute the sum payable by adding up the monthly prices of the selected fitness classes and the fee for the chosen personal training instructor option.
 
 For example, if a client selects Pilates (RM160 per month) and Kickboxing (RM200 per month) as their fitness classes, and chooses personal training instructor on a weekly basis (RM900 per week), the application will calculate the sum payable as follows:
